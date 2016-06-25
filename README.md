@@ -42,7 +42,7 @@ http://spring.io/guides
 Note:
 -------------------
 
- 如果你要在Linux环境运行，以下的文件需要修改。
+ 如果你要在Linux环境下运行，以下的文件需要修改。
 
     $ spring-oss-mini\src\main\webapp\WEB-INF\spring\appServlet\servlet-context.xml:
       <context:property-placeholder location="file:/opt/web/spring-mvc-mini/resources/application.properties"/>
